@@ -2,6 +2,7 @@
 import os
 import json
 import streamlit as st
+from groq import Groq
 
 st.set_page_config(page_title="Groq Chat • Streaming", page_icon="💬", layout="wide")
 st.title("💬 Groq LLM Chat (Streaming)")
@@ -30,7 +31,6 @@ for m in st.session_state.messages:
 user_input = st.chat_input("Say something...")
 
 def stream_groq(messages, model, api_key, temperature=0.7, max_tokens=512):
-    from groq import Groq
     client = Groq(api_key=api_key)
     stream = client.chat.completions.create(
         model=model,
@@ -70,3 +70,5 @@ if user_input:
             st.session_state.messages.append({"role": "assistant", "content": partial})
 
 
+
+    
