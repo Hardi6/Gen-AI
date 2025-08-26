@@ -1,0 +1,8 @@
+Salary Structure:
+
+- Monthly salary is the fixed amount paid to an employee every month.
+- Annual salary is calculated as monthly salary × 12.
+- Deductions include income tax, provident fund (PF), and professional tax.
+- Net salary (in-hand salary) = Gross salary − Total deductions.
+- Bonuses are additional payments and may be taxable.
+- Example: If monthly salary is ₹50,000, annual salary = ₹50,000 × 12 = ₹6,00,000.
