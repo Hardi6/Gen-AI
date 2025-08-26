@@ -1,1 +1,5 @@
+I have successfully deployed my Streamlit Multi-Agent RAG Application, and it is now live and accessible through the following link:
 
+https://gen-ai-wyvugacgztwkckzizpyumz.streamlit.app/
+
+This app integrates Streamlit with the OpenAI API, allowing users to interact with the model. Two different agents have been used for the application, Insurance and Salary.
