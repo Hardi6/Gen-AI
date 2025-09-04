@@ -1,9 +1,0 @@
-I have successfully developed and deployed the Interactive Loan Calculator Web Application using Python and Streamlit.
-This application allows users to input their personal and loan details (such as name, age, deposit, interest rate, and duration) using a variety of input types like text fields, sliders, number inputs, toggles, and checkboxes.
-
-The application dynamically generates results, including loan repayment schedules, summary dataframes, and multiple graphs to help visualize the financial details clearly.
-
-The project has been deployed on Streamlit Cloud and can be accessed at the following live URL:
- https://gen-ai-3nwtdpcwttcpkppnzem4qx.streamlit.app/#loan-details
-
-The complete source code is available on GitHub for reference and further improvements.

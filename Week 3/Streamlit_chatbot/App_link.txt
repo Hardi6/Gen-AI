@@ -1,7 +1,0 @@
-I have successfully deployed my Streamlit chatbot application, and it is now live and accessible through the following link:
-
-https://gen-ai-4fxdek7t9zqgrnq5ag32b7.streamlit.app/
-
-This app integrates Streamlit with the OpenAI API, allowing users to interact with the model. The interface includes 
-adjustable parameters such as temperature, and maximum tokens, along with a customizable system prompt 
-to shape the assistant’s behavior.
